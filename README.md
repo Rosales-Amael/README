@@ -1,0 +1,1 @@
+Hey! My name is Amaël Rosales and I am 19 years old. I've always been passionate about computers science since I was a child. I started my studies around the age of 14 when I learned digital systems. More specifically, I learned to master Linux, the Raspberrys, I also programmed in Python, and many notions of network architecture and network equipment.
